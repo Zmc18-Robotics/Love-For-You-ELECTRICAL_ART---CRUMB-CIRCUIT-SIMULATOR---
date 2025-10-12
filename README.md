@@ -9,7 +9,7 @@ The Electrical Circuit :
 ![Electrical Circuit](https://github.com/user-attachments/assets/33d31e91-62ac-4506-8056-a1a82de82204)
 
 
-Here Material that i use : 
+Here Material that I use : 
 
 - Arduino nano x1
 - LM555 x4
