@@ -32,4 +32,9 @@ Ingatlah untuk menggunakan Catu Daya, bukan Baterai! Ini terlalu berbahaya jika 
 
 Remember to use Power Supply instead of using Battery! This is too dangerous if you use battery! but if you are an engineer like me that you will use physics, of course you can use batteries ( definitely with a method )!
 
+buatlah sendiri proyek elektroniknya! karena jika anda hanya copy paste saja, maka anda mungkin bisa saja tidak paham dengan mekanisme2 didalamnya! jangan malas! perdalamilah ilmu anda karena ilmu itu akan sangat berharga suatu hari nanti~
+
+Make your own electronic projects! Because if you just copy and paste, you might not understand the mechanisms inside! Don't be lazy! Deepen your knowledge because it will be very valuable one day~
+
+
 Thanks~ *Giggles~* *Criss-cross-apple-s4uc3~*
