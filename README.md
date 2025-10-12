@@ -28,9 +28,9 @@ Here Material that I use :
 **Voltage = 5.4V**
 <img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/c824959b-560c-4aa2-be85-f451a80bf71c" />
 
-Ingatlah untuk menggunakan Catu Daya, bukan Baterai! Ini terlalu berbahaya jika Anda menggunakan baterai! Tetapi jika Anda seorang insinyur seperti saya yang akan menggunakan fisika, tentu saja Anda dapat menggunakan baterai ( tentu saja dengan metode tertentu )!
+Ingatlah untuk menggunakan Catu Daya, bukan Baterai! Ini terlalu berbahaya jika Anda menggunakan baterai! Tetapi jika Anda seorang insinyur seperti saya yang bisa menggunakan fisika, tentu saja Anda dapat menggunakan baterai ( tentu saja dengan metode tertentu )!
 
-Remember to use Power Supply instead of using Battery! This is too dangerous if you use battery! but if you are an engineer like me that you will use physics, of course you can use batteries ( definitely with a method )!
+Remember to use Power Supply instead of using Battery! This is too dangerous if you use battery! but if you are an engineer like me that you can use physics, of course you can use batteries ( definitely with a method )!
 
 buatlah sendiri proyek elektroniknya! karena jika anda hanya copy paste saja, maka anda mungkin bisa saja tidak paham dengan mekanisme2 didalamnya! jangan malas! perdalamilah ilmu anda karena ilmu itu akan sangat berharga suatu hari nanti~
 
