@@ -1,4 +1,4 @@
-# Love-For-You---Crumb-Simulator
+# Love For You - Crumb Simulator
 Big electronics project that shows "Love for you" in big breadboard and very complex systems!
 
 The BreadBoard Circuit :
