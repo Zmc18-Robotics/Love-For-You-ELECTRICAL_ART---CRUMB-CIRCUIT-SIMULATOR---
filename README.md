@@ -1,5 +1,5 @@
 # Love For You - Crumb Simulator
-Big electronics project that shows "Love for you" in big breadboard and very complex systems!
+Big electronics project that shows "Love for you" in big breadboard and very complex systems! 
 
 The BreadBoard Circuit :
 ![BreadBoard Circuit](https://github.com/user-attachments/assets/cb111d01-b4ec-4def-9953-3456972bab93)
