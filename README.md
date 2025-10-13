@@ -10,7 +10,7 @@ The Electrical Circuit :
 
 
 
-Here Material that I use : 
+Here Materials that I use : 
 
 - Arduino nano x1
 - LM555 x4
