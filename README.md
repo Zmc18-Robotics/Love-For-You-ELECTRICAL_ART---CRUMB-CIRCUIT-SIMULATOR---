@@ -12,7 +12,7 @@ The Electrical Circuit :
 
 Here Materials that I use : 
 
-- Arduino nano x1
+- Arduino Nano x1
 - LM555 x4
 - Led pin x? ( ± 100 )
 - Capacitor 33uF x2
