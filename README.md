@@ -6,7 +6,7 @@ The BreadBoard Circuit :
 
 
 The Electrical Circuit :
-![Electrical Circuit](https://github.com/user-attachments/assets/de7ba0d6-413d-4105-8599-3dc6849fed07)
+![Electrical Circuit](https://github.com/user-attachments/assets/dab15253-7e71-40bc-b9fc-fa8f65bc7f66)
 
 
 
