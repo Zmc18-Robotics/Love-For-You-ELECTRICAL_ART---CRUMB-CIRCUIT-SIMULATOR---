@@ -5,7 +5,7 @@ Proyek Elektronik yang menampilkan "Love for you" di Breadboard besar dan sistem
 The BreadBoard Circuit :
 ![BreadBoard Circuit](https://github.com/user-attachments/assets/cb111d01-b4ec-4def-9953-3456972bab93)
 
-
+ 
 The Electrical Circuit :
 ![Electrical Circuit](https://github.com/user-attachments/assets/dab15253-7e71-40bc-b9fc-fa8f65bc7f66)
 
