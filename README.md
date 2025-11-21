@@ -43,4 +43,4 @@ buatlah sendiri proyek elektroniknya! karena jika anda hanya copy paste saja, ma
 Make your own electronic projects! Because if you just copy and paste, you might not understand the mechanisms inside! Don't be lazy! Deepen your knowledge because it will be very valuable one day~
 
 
-Thanks~ 
+Thanks~ ^^
