@@ -1,4 +1,4 @@
-# Love For You - Crumb Simulator
+# Love For You { ELECTRICAL ART } - Crumb Simulator
 Big electronics project that shows "Love for you" in big breadboard and very complex systems! 
 Proyek Elektronik yang menampilkan "Love for you" di Breadboard besar dan sistem kelistrikan yang sangat kompleks!
 
