@@ -28,7 +28,7 @@ Here Materials that I use / Material-Material yang saya gunakan :
 - Resistor 10000Ω x2
 - Resistor 68Ω x2
 - Resistor 1000000Ω x2
-
+- Breadboard x? ( ±22 )
 ---
 
 **Voltage = 5.4V**
