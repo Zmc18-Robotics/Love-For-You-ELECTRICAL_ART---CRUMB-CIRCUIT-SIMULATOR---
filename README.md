@@ -18,8 +18,8 @@ Here Materials that I use / Material-Material yang saya gunakan :
 - Arduino Nano x1
 - LM555 x4
 - Led pin x? ( ± 100 )
-- Capacitor 33uF x2
-- Capacitor 1uF x1
+- Capacitor 33µF x2
+- Capacitor 1µF x1
 - Capacitor 100nF x1
 - Resistor 220Ω x2
 - Resistor 560Ω x17
